@@ -1,0 +1,37 @@
+/* Навигация */
+#header-nav {
+  background-color: #f6f6f6;
+  border-radius: 0;
+  border: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #555 !important;
+}
+
+/* Мобильное меню */
+#nav-list {
+  background-color: #fff;
+  margin: 0;
+}
+
+#nav-list li a {
+  color: #555;
+  border-bottom: 1px solid #E7E7E7;
+}
+
+/* Контент */
+.content-box {
+  background-color: #999; /* Серый фон как на макете */
+  padding: 20px;
+  margin-top: 20px;
+  color: black;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
